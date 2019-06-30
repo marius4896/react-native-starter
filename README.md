@@ -45,4 +45,11 @@ All the magic happens in the `/src/` folder where all the files are stored
 
 
 ### Next Steps
-[ ] More documentation
+
+- [x] Initial commit
+- [x] Initial documentation
+- [ ] Documentation update
+- [ ] Migrate to Typescript
+- [ ] Permissions request api
+- [ ] Loading Component ( redux integration )
+
