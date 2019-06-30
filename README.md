@@ -12,7 +12,7 @@ The starter does not provide any specific ui code which you can reuse, is ment t
 I am using JavaScript, but do plan to switch to Typescript in a later build.
 
 ### Instalation 
-:exclamation: Before starting make sure you have the correct development environment on your local machine [follwing the official steps](https://facebook.github.io/react-native/docs/getting-started)
+:exclamation: Before starting make sure you [follow the official steps to have React Native working on your machine](https://facebook.github.io/react-native/docs/getting-started)
 ```bash
   $ git clone https://github.com/marius4896/react-native-starter <folder_name>
   $ cd <folder_name>
