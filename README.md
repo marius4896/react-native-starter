@@ -8,7 +8,7 @@ There are those for which you pay a couple of dolars like [React Native Starter]
 I wanted to build one for me for my own productivity, and if it can help some of you guys then cool :sunglasses:
 
 ### Disclaimer
-The starter does not provide any specific ui code which you can reuse, is ment to be a code scaffold to help you start fast.\
+The starter does not provide any specific ui code, is ment to be a code scaffold to help you start fast.\
 I am using JavaScript, but do plan to switch to Typescript in a later build.
 
 ### Instalation 
