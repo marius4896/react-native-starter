@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@react-native-community/async-storage": "1.5.0",
+    "@react-navigation/core": "*",
     "apisauce": "1.0.3",
     "axios": "0.19.0",
     "ramda": "0.26.1",
@@ -15,6 +16,9 @@
     "react-native": "0.59.9",
     "react-native-gesture-handler": "1.3.0",
     "react-native-screens": "1.0.0-alpha.22",
+    "react-native-svg": "9.5.1",
+    "react-native-svg-uri": "1.2.3",
+    "react-native-vector-icons": "6.6.0",
     "react-navigation": "3.11.0",
     "react-navigation-redux-helpers": "3.0.2",
     "react-redux": "7.1.0",
